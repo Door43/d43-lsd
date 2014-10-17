@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lsd:home|Door43 (lsd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lsd|d43-lsd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lsd/archive/master.zip|d43-lsd.zip]]
+
+**Recent Changes**
+{{changes>ns = lsd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lsd|Ethnologue data]]
+
